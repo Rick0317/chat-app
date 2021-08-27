@@ -92,21 +92,21 @@
 .each-message{
   margin-bottom: 40px;
 }
-.sender-name-date{
+.upper-message{
   margin-top: 10px;
   margin-bottom: 10px;
   display: flex;
 }
-.sender-name{
+.message-user{
   font-size: 16px;
   color: #434A54;
   margin-right: 10px;
 }
-.send-date{
+.message-date{
   font-size: 12px;
   color: #999;
 }
-.send-messages{
+.message-content{
   font-size: 14px;
   color: #434A54;
 }
